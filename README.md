@@ -1,6 +1,6 @@
 # Vyapar Book
 
-### *Vyapar ka Digital Hisaab* 📒
+### *Vyapar ka Digital Hisaab*
 
 This is a accounting software that I have developed which is the combination of **Zoho Books and
 Tally** along with an innovative feature of **Vyapar ID**. This software was developed from the need
@@ -170,9 +170,7 @@ little, that becomes a mess. Vyapar Book solves exactly this:
 This is an open-source project and anyone can use it. I have built this to solve a real problem and
 also to showcase my development skills. You can download the Windows installer below and try it out.
 
-> *
-*[⬇️ Download Vyapar Book for Windows](assets/downloads/MSME Tool.exe)
-**
+![Download Vyapar Book for Windows](assets/downloads/MSME Tool.exe)
 
 The installer will set up everything. You just need to register with your business details and you
 will get your **Vyapar ID** right away.
