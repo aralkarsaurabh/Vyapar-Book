@@ -170,7 +170,7 @@ little, that becomes a mess. Vyapar Book solves exactly this:
 This is an open-source project and anyone can use it. I have built this to solve a real problem and
 also to showcase my development skills. You can download the Windows installer below and try it out.
 
-![Download Vyapar Book for Windows](assets/downloads/MSME Tool.exe)
+>[Download Vyapar Book for Windows](https://github.com/aralkarsaurabh/Vyapar-Book/blob/main/assets/downloads/MSME%20Tool.exe)
 
 The installer will set up everything. You just need to register with your business details and you
 will get your **Vyapar ID** right away.
