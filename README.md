@@ -18,8 +18,7 @@ We have a unique feature of **Vyapar ID** which is a unique id you get at the ti
 which can then be used to share the documents that you create on the Vyapar Book. This can better be
 understood from the example given below.
 
-Suppose you have a vendor who is also a user of Vyapar Book. They also get a Vyapar ID i.e **AAA1111
-**. Now, if you created a **Purchase Order** for that vendor you will get the option to send that
+Suppose you have a vendor who is also a user of Vyapar Book. They also get a Vyapar ID i.e **AAA1111**. Now, if you created a **Purchase Order** for that vendor you will get the option to send that
 purchase order to that vendor directly using their Vyapar ID.
 
 This is something which Zoho or Tally does not offer yet.
@@ -32,7 +31,7 @@ This is something which Zoho or Tally does not offer yet.
 
 Vyapar Book helps small and medium businesses manage all their financial documents in one place. You
 can create Quotations, convert them into Invoices, send Purchase Orders to vendors, handle Credit
-Notes & Debit Notes — and all of this in a proper GST-compliant format that your CA will actually
+Notes & Debit Notes - and all of this in a proper GST-compliant format that your CA will actually
 appreciate.
 
 The software also has a built-in **double-entry accounting system** that works silently in the
@@ -46,11 +45,11 @@ background. You just do your business actions and the books get maintained autom
 
 ![Invoices Screen](assets/screenshots/invoices.png)
 
-- **Quotations** — Send quotes to your customers and convert them to invoices directly
-- **Invoices** — GST-compliant invoices with auto-calculated CGST, SGST & IGST
-- **Purchase Orders** — Send POs to your vendors directly via their Vyapar ID
-- **Credit Notes** — Issue credit notes when a customer returns goods
-- **Debit Notes** — Raise debit notes against your vendor for damaged or returned goods
+- **Quotations** - Send quotes to your customers and convert them to invoices directly
+- **Invoices** - GST-compliant invoices with auto-calculated CGST, SGST & IGST
+- **Purchase Orders** - Send POs to your vendors directly via their Vyapar ID
+- **Credit Notes** - Issue credit notes when a customer returns goods
+- **Debit Notes** - Raise debit notes against your vendor for damaged or returned goods
 
 ### B2B Document Sharing
 
@@ -94,16 +93,16 @@ initials. This is the format CAs and government portals expect.
 
 Vyapar Book gives you a good set of reports to understand how your business is doing:
 
-- **Sales Register** — All invoices with GST breakup
-- **Purchase Register** — All bills from vendors
-- **Outstanding Receivables** — Who owes you money and how much
-- **Outstanding Payables** — What you owe to your vendors
-- **Receivables & Payables Aging** — Overdue analysis by 1-30, 31-60, 60+ days buckets
-- **GST Summary** — Output GST vs Input GST, net amount payable
+- **Sales Register** - All invoices with GST breakup
+- **Purchase Register** - All bills from vendors
+- **Outstanding Receivables** - Who owes you money and how much
+- **Outstanding Payables** - What you owe to your vendors
+- **Receivables & Payables Aging** - Overdue analysis by 1-30, 31-60, 60+ days buckets
+- **GST Summary** - Output GST vs Input GST, net amount payable
 - **Profit & Loss Statement**
 - **Balance Sheet**
 - **Trial Balance**
-- **Ledger Report** — All transactions for any account
+- **Ledger Report** - All transactions for any account
 - **Cash Book & Bank Book**
 
 ---
@@ -114,7 +113,7 @@ Most small businesses in India are still making invoices in Word or Excel. The m
 little, that becomes a mess. Vyapar Book solves exactly this:
 
 - Your CA gets documents in a proper format without you having to do anything extra
-- You never have to chase a vendor or customer over WhatsApp for a document — just use their Vyapar
+- You never have to chase a vendor or customer over WhatsApp for a document - just use their Vyapar
   ID
 - GST filing becomes much easier because the reports are already in GSTR-1 and GSTR-3B format
 - You know exactly which customers owe you money and for how long
