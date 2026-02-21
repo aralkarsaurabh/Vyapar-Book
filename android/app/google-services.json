@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191693991870",
+    "project_id": "entender-36030",
+    "storage_bucket": "entender-36030.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191693991870:android:ec54c2d8f82eda769353ef",
+        "android_client_info": {
+          "package_name": "com.triroop.msme_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5oLQtgbzqx0F9Bv7kdqPZRQAWmLndQhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
